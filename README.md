@@ -1,2 +1,2 @@
-# bkproject
-just like that
+# Grocery Store Management System
+
